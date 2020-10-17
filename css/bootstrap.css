@@ -3158,9 +3158,19 @@ fieldset:disabled a.btn {
 }
 
 .btn-block {
-  display: block;
+  display: block;  
   width: 100%;
 }
+
+.btn-csk {
+  background-color: yellow;
+}
+
+.btn-mi {
+  background-color: blue;
+}
+
+
 
 .btn-block + .btn-block {
   margin-top: 0.5rem;
@@ -4842,6 +4852,7 @@ input[type="button"].btn-block {
 
 .card-img-overlay {
   position: absolute;
+  height: 100%!important;
   top: 0;
   right: 0;
   bottom: 0;
@@ -7141,9 +7152,10 @@ button.bg-dark:focus {
 .embed-responsive {
   position: relative;
   display: block;
-  width: 100%;
-  padding: 0;
-  overflow: hidden;
+  height: 100%!important;
+  padding: 10vh;
+  margin-bottom: 10vh;
+ 
 }
 
 .embed-responsive::before {
@@ -10274,5 +10286,11 @@ a.text-dark:hover, a.text-dark:focus {
     color: inherit;
     border-color: #dee2e6;
   }
+}
+
+
+.btn-block.csk {
+	background-color: rgb(156, 184, 32);
+	border-color: #000;
 }
 /*# sourceMappingURL=bootstrap.css.map */
