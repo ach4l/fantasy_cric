@@ -10318,10 +10318,7 @@ a.text-dark:hover, a.text-dark:focus {
 }
 
 
-.btn-block.csk {
-	background-color: rgb(156, 184, 32);
-	border-color: #000;
-}
+
 /*# sourceMappingURL=bootstrap.css.map */
 
 
@@ -10341,14 +10338,30 @@ a.text-dark:hover, a.text-dark:focus {
   font-weight:bold;
 }
 
+.btn-kings {
+	background-color: #C7C4CB;
+	border-color: #000;
+}
+
 .kkrText {
   color:#2E183C;
   font-weight:bold;
 }
+.btn-kkr {
+	background-color: #2E183C;
+	border-color: #000;
+}
+
 
 .srhText {
   color:#fd7a2a;
   font-weight:bold;
+}
+
+.btn-srh {
+	
+  border-color: #fd7a2a;
+  border-width: 4px;
 }
 
 .dcText {
@@ -10356,9 +10369,20 @@ a.text-dark:hover, a.text-dark:focus {
   font-weight:bold;
 }
 
+.btn-dc {
+	background-color: #1a50b9;
+	border-color: #000;
+}
+
+
 .rcbText {
   color:#db1316;
   font-weight:bold;
+}
+
+.btn-rcb {
+	background-color: #db1316;
+	border-color: #000;
 }
 
 .rrText {
@@ -10366,9 +10390,19 @@ a.text-dark:hover, a.text-dark:focus {
   font-weight:bold;
 }
 
+.btn-rr {
+	background-color: #ff4081;
+	border-color: #000;
+}
+
 .cskText {
   color:#fbd21c;
   font-weight:bold;
+}
+
+.btn-chennai {
+	background-color: #fbd21c;
+	border-color: #000;
 }
 
 .miText {
@@ -10376,6 +10410,10 @@ a.text-dark:hover, a.text-dark:focus {
   font-weight:bold;
 }
 
+.btn-mumbai {
+	background-color: ##0d2d74;
+	border-color: #000;
+}
 
 
 
