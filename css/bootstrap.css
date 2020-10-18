@@ -7178,6 +7178,7 @@ button.bg-dark:focus {
   display: block;
   height: 100%!important;
   padding-top: 1%!important;
+  padding-bottom: 5%!important;
   padding : 2%
  
 }
