@@ -7204,7 +7204,7 @@ button.bg-dark:focus {
 }
 
 .embed-responsive-21by9::before {
-  padding-bottom: 10%!important;
+  padding-bottom: 20%!important;
   padding-top: 42.857143%;
 }
 
@@ -7214,12 +7214,12 @@ button.bg-dark:focus {
 }
 
 .embed-responsive-4by3::before {
-  padding-bottom: 10%!important;
+  padding-bottom: 20%!important;
   padding-top: 75%;
 }
 
 .embed-responsive-1by1::before {
-  padding-bottom: 10%!important;
+  padding-bottom: 20%!important;
   padding-top: 100%;
 }
 
