@@ -7200,7 +7200,7 @@ button.bg-dark:focus {
   width: 100%;
   height: 100%;
   border: 0;
-  padding-bottom: 10%!important;
+  padding-bottom: 20%!important;
 }
 
 .embed-responsive-21by9::before {
@@ -7209,7 +7209,7 @@ button.bg-dark:focus {
 }
 
 .embed-responsive-16by9::before {
-  padding-bottom: 10%!important;
+  padding-bottom: 20%!important;
   padding-top: 56.25%;
 }
 
